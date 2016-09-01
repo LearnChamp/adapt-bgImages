@@ -88,7 +88,7 @@ To hide the page-header, add the `hide-header` class to a contentObjects `_class
 No known limitations.  
 
 ----------------------------
-**Version number:**  1.0.0   <a href="https://community.adaptlearning.org/" target="_blank"><img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/adapt-logo-mrgn-lft.jpg" alt="adapt learning logo" align="right"></a> 
+**Version number:**  1.0.0   <a href="https://community.adaptlearning.org/" target="_blank"><img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/adapt-logo-mrgn-lft.jpg" alt="adapt learning logo" align="right"></a>       
 **Framework versions:**  2.0     
 **Author / maintainer:** [LearnChamp](https://github.com/LearnChamp)    
 **Accessibility support:** WAI AA   
