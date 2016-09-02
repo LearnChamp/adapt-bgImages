@@ -1,23 +1,24 @@
 {
-  "name": "adapt-bgImages",
-  "version": "1.0.0",
-  "framework": "^2.0.0",
-  "homepage": "https://github.com/LearnChamp/adapt-bgImages",
-  "issues": "",
-  "displayName": "bg Images",
-  "theme": "bg-images",
-  "description": "",
-  "main": "./js/bg-images.js",
-  "keywords": [
-    "adapt-plugin",
-    "adapt-theme"
-  ],
-  "license": "GPLv3",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "adapt-bgImages",
+    "repository": "git://github.com/LearnChamp/adapt-bgImages",
+    "framework": "^2.0.0",
+    "version": "1.0.0",
+    "homepage": "https://github.com/LearnChamp/adapt-bgImages",
+    "issues": "",
+    "displayName": "bg Images",
+    "theme": "bg-images",
+    "description": "",
+    "main": "./js/bg-images.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-theme"
+    ],
+    "license": "GPLv3",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
