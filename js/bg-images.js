@@ -1,4 +1,4 @@
-define(['coreJS/adapt'], function(Adapt) {
+define(['core/js/adapt'], function(Adapt) {
 	
 	// add ie8 fallback
 	Adapt.on('app:dataReady', checkIE8);
