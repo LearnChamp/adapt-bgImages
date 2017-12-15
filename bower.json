@@ -1,7 +1,7 @@
 {
     "name": "adapt-bgImages",
     "repository": "git://github.com/LearnChamp/adapt-bgImages",
-    "framework": "^2.0.0",
+    "framework": ">=2.1",
     "version": "1.0.1",
     "homepage": "https://github.com/LearnChamp/adapt-bgImages",
     "issues": "",
